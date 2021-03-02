@@ -2,10 +2,11 @@
 
 //author: Matt Gill
 //date: 3/2/2021
-//description: This program is a tent with a sun going around it, the  behind the horizon. 
+//description: This program is a tent with a sun going around it, then  behind the horizon. 
 //The started code is the solution for the triangle and spinning cube in class exercise.
-//proposed points (8 of 10): The only problem I can get figured out is the colors. For some reason my colors will not change.
-//I tried to email for help on this, but never heard back.
+//proposed points (9 of 10): I think that overall this is good and I out a lot of work into it. A lot of the code is modified from previous
+// in class example to fit into this program.
+
 //For the keybaord inputs, D changes the direction of the sun, F makes it go faster, and S makes it go slower. The case does not matter.
 
 //declare global variables
